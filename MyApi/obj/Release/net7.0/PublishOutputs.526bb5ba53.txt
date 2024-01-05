@@ -1,0 +1,12 @@
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/MyApi
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/appsettings.Development.json
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/appsettings.json
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/MyApi.dll
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/MyApi.deps.json
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/MyApi.runtimeconfig.json
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/MyApi.pdb
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/Microsoft.AspNetCore.OpenApi.dll
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/Microsoft.OpenApi.dll
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/out/Swashbuckle.AspNetCore.SwaggerUI.dll

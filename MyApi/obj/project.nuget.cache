@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkGQtxd1KKEZKYiUBW0F1m52HJa5QNOJyNTtM8Vf5W5b+wIWZxhp3eVRgHSuAr2i8CF5rrVnHLOjxiG4Lv2xHQ==",
+  "success": true,
+  "projectFilePath": "/home/mio/Docker/TeamCity/dotnet_build_test/MyApi/MyApi.csproj",
+  "expectedPackageFiles": [
+    "/home/mio/.nuget/packages/microsoft.aspnetcore.openapi/7.0.14/microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "/home/mio/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/mio/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/mio/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/mio/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/mio/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/mio/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
